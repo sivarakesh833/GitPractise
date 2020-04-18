@@ -35,7 +35,7 @@ public class ClientApp {
 						frame.add(button2);
 						frame.add(button3);
 						frame.add(button4);
-						
+						System.out.println("----------------------------------------");
 						frame.pack();
 						frame.setVisible(true);
 	}
