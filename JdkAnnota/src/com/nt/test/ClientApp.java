@@ -9,7 +9,8 @@ import com.nt.beans.TravelAgent;
 public class ClientApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub// TODO Auto-generated method stub
+		// TODO Auto-generated method stub// TODO Auto-generated method stub
 		System.out.println("hiiiiiiiiiiii");
 		ApplicationContext context = new ClassPathXmlApplicationContext("com/nt/cfgs/applicationContext.xml");
 		TravelAgent obj = (TravelAgent) context.getBean("travelAgent");
